@@ -1,4 +1,4 @@
-LifeOnRoadFrontend
+YeomanAngularTest
 ==================
 
-This is the Yeoman, Grunt, Bower and Angular based frontend for the Life On The Road app
+This is a Yeoman, Grunt, Bower and Angular test.
